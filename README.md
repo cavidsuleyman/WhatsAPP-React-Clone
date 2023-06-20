@@ -27,14 +27,29 @@ This project was developed using the following technologies
 
 ## SAMPLE SCREEN APPEARANCE
 
->It is a Short Side page, you can like and unlike videos, also I add this video, play&pausa, mute&unmute and also a progress bar:
+>It is a Home page, you can search all of the users:
 ![There was a screenshot here](./screen-1.png)
 
->It is a Video Details page, you can watch videos, subscribe or unsubscribe from video channels, hover video, show more and less more descriptions, and write comments:
+>It is a Loading page:
 ![There was a screenshot here](./screen-2.png)
 
->It is a Sign-in page, you can Sign in with Google and Facebook:
-![There was a screenshot here](./screen-3.png)
+>You can use a camera here and take photos:
+![There was a screenshot here](./screnn-3.png)
 
->It is a Home page, you can search here videos, block videos, open-close Sidebar:
+>You can location and message:
 ![There was a screenshot here](./screen-4.png)
+
+>You can use attach menu:
+![There was a screenshot here](./screen-5.png)
+
+>It is a Community Page:
+![There was a screenshot here](./screen-6.png)
+
+>It is a New chat page:
+![There was a screenshot here](./screen-7.png)
+
+>It is an Archive page:
+![There was a screenshot here](./screen-8.png)
+
+>It is a Profile page:
+![There was a screenshot here](./screen-9.png)
