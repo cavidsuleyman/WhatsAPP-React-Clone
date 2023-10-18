@@ -24,32 +24,3 @@ This project was developed using the following technologies
 | 1 | React | Create this system |
 | 2 | VSCode | Text editor used in the project |
 | 3 | AntDesign | React UI library |
-
-## SAMPLE SCREEN APPEARANCE
-
->It is a Home page, you can search all of the users:
-![There was a screenshot here](./screen-1.png)
-
->It is a Loading page:
-![There was a screenshot here](./screen-2.png)
-
->You can use a camera here and take photos:
-![There was a screenshot here](./screnn-3.png)
-
->You can location and message:
-![There was a screenshot here](./screen-4.png)
-
->You can use attach menu:
-![There was a screenshot here](./screen-5.png)
-
->It is a Community Page:
-![There was a screenshot here](./screen-6.png)
-
->It is a New chat page:
-![There was a screenshot here](./screen-7.png)
-
->It is an Archive page:
-![There was a screenshot here](./screen-8.png)
-
->It is a Profile page:
-![There was a screenshot here](./screen-9.png)
